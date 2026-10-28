@@ -8,4 +8,4 @@ Most recently I was product owner for a 4,700-page enterprise documentation site
 
 - **agent-ready-docs** (in progress): a method for testing whether AI coding agents can complete real developer tasks using only a product's docs.
 
-**Tools I work with:** Git, GitLab CI/CD, Markdown, Jekyll, Liquid, Python, Elasticsearch, Google Analytics 4, Kiro, Claude
+**Tools I work with:** Git, GitLab CI/CD, Markdown, Jekyll, Liquid, Python, HTML, CSS, Google Analytics 4, Kiro, Claude, Claude Code, ChatGPT, Codex, and Gemini.
